@@ -1,0 +1,3 @@
+Privat Bank Card:2732,73
+Pumb Card:500,27
+Credit Agricole Card:3547
