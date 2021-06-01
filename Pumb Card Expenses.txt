@@ -1,0 +1,12 @@
+Taxes:0
+Food:0
+Clothing:0
+Automobile:0
+Insurance:0
+Utilities:0
+Debt Repayment:0
+Health Care:0
+Transport:0
+Education:0
+Entertainment and Recreation:0
+Other expenditure:0
